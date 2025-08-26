@@ -14,7 +14,7 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=mitansh99&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="200" />
 <!--   <img src="https://nirzak-streak-stats.vercel.app/?user=mitansh99&theme=dark&hide_border=true" height="200" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitansh99&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitansh99&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200" /> -->
 </div>
 
 
