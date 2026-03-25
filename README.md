@@ -7,8 +7,8 @@
 
 
 ## 🧘 About Me
-- 🎓 Computer Engineering student (5th Sem)
-- 🌱 Learning AI/ML (with python), GitHub, and Web Development
+- 🎓 Computer Engineering student (6th Sem)
+- 🌱 Doing DSA and System Design
 - 💡 Interested in Logical programming & Open Source
 - 💻 My [*Leetcode*](https://leetcode.com/u/devmitansh) Profile.
 
